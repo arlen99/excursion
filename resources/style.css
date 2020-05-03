@@ -22,8 +22,12 @@ header a {
 
 }
 
-header p{
+.secondheader{
+  font-weight: 300;
+  font-size: 42px;
+}
 
-
-
+.secondparagraph{
+  font-size: 21px;
+  color: gray;
 }
